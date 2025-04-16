@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Homepage
 ---
-Welcome to Kerrigan2K's blog
+# Welcome!
 
