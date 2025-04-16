@@ -1,5 +1,5 @@
 ---
-TITLE: Welcome to Kerrigan2K's blog
+TITLE: Welcome
 ---
-## test
+Welcome to Kerrigan2K's blog
 
